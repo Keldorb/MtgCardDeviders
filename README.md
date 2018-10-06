@@ -5,4 +5,4 @@ I will try to update every Edition as soon as i can because i need it by myself 
 Ive created this pnd file with paint.net (https://www.getpaint.net/). Feel free to fork or report any issues for requests.
 
 Here is some example how it is look like:
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/Keldorb/MtgCardDeviders/blob/master/example.png)
