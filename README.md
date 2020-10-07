@@ -1,17 +1,14 @@
-Updates:
-- included sets till "Zendikar Rising"
-
 MtGCardDividers
 
-For anyone who doesn't want to pay for Card Deviders for their collection, here is a self printed alternative. 
-I will try to update every Edition as soon as i can because i need it by myself too :)
-I've created this pnd file with paint.net (https://www.getpaint.net/). Feel free to fork or report any issues for requests.
-For inventarisation i use Delver Lense (https://play.google.com/store/apps/details?id=delverslab.delverlens&hl=de).
+For anyone who doesn't want to pay much money for card deviders, here is a self printed alternative. 
+I will try to update every Edition as soon as I can.
+I've created this .pnd file with paint.net (https://www.getpaint.net/). Feel free to fork, report any issues or make requests.
+To manage my collection I use Delver Lense (https://play.google.com/store/apps/details?id=delverslab.delverlens&hl=de) and this sorting method.
 
 Feel free to like and follow!
 
 Patchnotes:
-
+- included sets till "Zendikar Rising"
 2018.10.28
 Fixed and adding additions from @Shaidar413 
 - the grey (black) card was too high, pulled it down and did the same with the icons
