@@ -1,3 +1,6 @@
+Updates:
+- included sets till "Zendikar Rising"
+
 MtGCardDividers
 
 For anyone who doesn't want to pay for Card Deviders for their collection, here is a self printed alternative. 
@@ -21,7 +24,7 @@ Fixes and edits by me
 
 Future Sights (hehe)
 - adding seperate color deviders for ravnica
-- adding two more deviders for lands and tokens
+- adding two more deviders for ~~lands~~(done) and tokens
 ...more?!
 
 Here an example of how it looks:
