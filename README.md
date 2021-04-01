@@ -8,7 +8,8 @@ To manage my collection I use Delver Lense (https://play.google.com/store/apps/d
 Feel free to like and follow!
 
 Patchnotes:
-- included sets till "Zendikar Rising"
+2021.04.01
+- included sets till "Stryxhaven" and added more older sets.
 2018.10.28
 Fixed and adding additions from @Shaidar413 
 - the grey (black) card was too high, pulled it down and did the same with the icons
