@@ -8,6 +8,11 @@ To manage my collection I use Delver Lense (https://play.google.com/store/apps/d
 Feel free to like and follow!
 
 Patchnotes:
+2021.08.18
+- included sets till "Inistrad: Crimson Vow" 
+- Added additional devider for token or something idk
+- Added <Edition> Extra deviders for Fullarts
+  
 2021.04.01
 - included sets till "Stryxhaven" and added more older sets.
 2018.10.28
